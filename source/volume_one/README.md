@@ -1,8 +1,6 @@
-© 2022 Hosted by NeoLab Viet Nam
-
 ### [Getting Started](#getting-started)
 
-* Flutter (Channel stable, 2.10.4)
+* Flutter (Channel stable, 2.10.5)
 * Dart 2.16.2
 
 
